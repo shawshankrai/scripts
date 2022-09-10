@@ -1,0 +1,1 @@
+/usr/bin/pip3 install boto3==1.24.69
